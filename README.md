@@ -18,11 +18,14 @@ A simple Stone Paper Scissors (Rock Paper Scissors) game built with Python and T
 
 # 📦 Requirements
 Python 3.x
+
 Tkinter (comes pre-installed with Python)
 
 # 🧠 Game Rules
 Stone crushes Scissors
+
 Paper covers Stone
+
 Scissors cuts Paper
 
 
